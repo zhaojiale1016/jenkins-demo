@@ -1,7 +1,7 @@
 <template>
   <div id="app">
   
-     赵佳乐的简易版腾讯云服务器
+     赵佳乐的简易版阿里云服务器
   
     <router-view/>
   </div>
