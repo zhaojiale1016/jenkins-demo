@@ -3,6 +3,9 @@
   
      赵佳乐的简易版阿里云服务器
   
+      <img src='./assets/logo.png'></img>
+       
+  
     <router-view/>
   </div>
 </template>
